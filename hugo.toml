@@ -1,0 +1,37 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Beyond the Bell Jar'
+theme = 'archie'
+paginate = 5
+
+[params]
+	mode="light" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = '"She wants to be ... everything."'
+	mathjax = true # enable MathJax support
+	katex = true # enable KaTeX support
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "Checklist"
+url = "/list"
+weight = 4
+
+[[menu.main]]
+name = "Quote"
+url = "/quote"
+weight = 5
