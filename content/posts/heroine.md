@@ -2,7 +2,7 @@
 title: "Pure Heroine"
 date: "2022-08-10"
 description: "Listening to Lorde's *Pure Heroine*"
-tags: [Music, Reviews]
+tags: [music, reviews]
 ---
 
 

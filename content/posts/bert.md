@@ -2,7 +2,7 @@
 title: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
 date: "2022-07-28"
 description: "Reading *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*"
-tags: [Papers, Summaries]
+tags: [papers, summaries]
 
 ---
 

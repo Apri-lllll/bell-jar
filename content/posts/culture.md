@@ -2,7 +2,7 @@
 title: "Culture & Conformity"
 date: "2022-08-02"
 description: "When I Try to Fill Up My Blog with Class Essays"
-tags: [Essays]
+tags: [essays]
 ---
 
 

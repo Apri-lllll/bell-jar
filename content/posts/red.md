@@ -2,7 +2,7 @@
 title: "Red"
 date: "2022-07-23"
 description: "Listening to Taylor Swift's Red"
-tags: [Music, Reviews]
+tags: [music, reviews]
 ---
 
 Album covers showcasing the artist's partially shaded face from the side. Album titles consisting of a single word of color. Women writing and singing with exuberant emotion and quiet wisdom.

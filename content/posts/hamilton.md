@@ -2,7 +2,7 @@
 title: "Hamilton"
 date: "2022-08-02"
 description: "Reading *Hamilton* (The Book)"
-tags: [Books, Reviews]
+tags: [books, reviews]
 ---
 
 

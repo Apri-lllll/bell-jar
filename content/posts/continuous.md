@@ -3,7 +3,7 @@
 title: "Continuous Prompt Tuning"
 date: "2023-01-15"
 description: "Reading Continuous Prompt Tuning Papers"
-tags: [Papers, Surveys]
+tags: [papers, surveys]
 
 ---
 

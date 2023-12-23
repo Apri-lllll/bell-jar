@@ -3,7 +3,7 @@
 title: "PLM-Based Text Generation"
 date: "2023-01-26"
 description: "Reading *A Survey of Pretrained Language Models Based Text Generation*"
-tags: [Papers, Summaries]
+tags: [papers, summaries]
 
 ---
 

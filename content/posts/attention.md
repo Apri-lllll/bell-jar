@@ -2,7 +2,7 @@
 title: "Attention is All You Need"
 date: "2022-07-25"
 description: "Reading *Attention is All You Need*"
-tags: [Papers, Summaries]
+tags: [papers, summaries]
 ---
 
 *Attention is All You Need* proposes the Transformer model, which solely uses attention mechanisms to tackle sequence transduction problems. The Transformer achieves state-of-the-art results on translation tasks with low training costs.
