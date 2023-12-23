@@ -3,10 +3,10 @@ languageCode = 'en-us'
 title = 'Beyond the Bell Jar'
 theme = 'archie'
 paginate = 5
-favicon = '/images/sylvia.png'
 
 [params]
-	mode="light" # color-mode → light,dark,toggle or auto
+	favicon = 'https://i.postimg.cc/GtP5x28h/7c0d3307ce2c3e73505dc89b35432f0.png'
+	mode="toggle" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = '"She wants to be ... everything."'
 	mathjax = true # enable MathJax support
