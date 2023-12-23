@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Beyond the Bell Jar'
 theme = 'archie'
 paginate = 5
+favicon = '/images/sylvia.png'
 
 [params]
 	mode="light" # color-mode → light,dark,toggle or auto
