@@ -12,14 +12,14 @@ When I first got obsessed with *Hamilton*, I sometimes cried to lines like "I wi
 Below is a the context in the song:
 
 > My dearest Angelica
-> Tomorrow and tomorrow and tomorrow
-> Creeps in this petty pace from day to day
-> I trust you'll understand the reference to
-> Another Scottish tragedy without me having to name the play
-> They think me Macbeth, and ambition is my folly
-> I'm a polymath a pain in the ass a massive pain
-> Madison is Banquo, Jefferson's Macduff
-> And Birnam Woods is Congress on its way to Dunsinane
+> 
+> Tomorrow and tomorrow and tomorrow creeps in this petty pace from day to day
+> 
+> I trust you'll understand the reference to another Scottish tragedy without me having to name the play
+> 
+> They think me Macbeth, and ambition is my folly, I'm a polymath a pain in the ass a massive pain
+> 
+> Madison is Banquo, Jefferson's Macduff, and Birnam Woods is Congress on its way to Dunsinane
 
 When put into context, "they think me Macbeth" obviously alludes to a common superstition in the world of theater, that saying the word "Macbeth" on stage brings misfortune to the actors. Hamilton originally wanted to avoid saying the word by only dropping Angelica a hint, but then goes ahead and says it anyway. Of course, in reality Hamilton was sitting in his study instead of standing on a stage, but breaking fourth walls isn't the main point of this essay so I won't go into it ;)
 
