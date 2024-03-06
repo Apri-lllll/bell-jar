@@ -3,6 +3,6 @@ title: This is just a random quote
 date: 2023-12-22
 ---
 
-The trip was sixty miles. The women spoke en route, telling of the diaphragms that had failed in Shreveport and San Antonio, of the grandfathers who had molested them in St. Louis and Denver, of the families of five in Houston and Oklahoma City that simply could not afford a sixth.
+In the shattered schoolhouse where for the first time he had felt the security of power, a few feet from the room where he had come to know the uncertainty of love, Arcadio found the formality of death ridiculous. Death really did not matter to him but life did, and therefore the sensation he felt when they gave their decision was not a feeling of fear but of nostalgia. He did not speak until they asked him for his last request.
 
---*The Family Roe*, Joshua Prager
+--*One Hundred Years of Solitude*, Gabriel Garcia Marquez
