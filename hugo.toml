@@ -36,3 +36,8 @@ weight = 4
 name = "Quote"
 url = "/quote"
 weight = 5
+
+[[menu.main]]
+name = "Arxiv"
+url = "/arxiv"
+weight = 6
