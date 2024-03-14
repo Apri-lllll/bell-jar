@@ -1,0 +1,65 @@
+---
+title: "There's Nothing Like Summer in the City..."
+date: "2024-02-16"
+description: "Sundays, NYC, and the best summer of my life."
+tags: [life, essays]
+---
+
+The first time I had lunch with a coworker, we were digging into our Korean food truck lunch while sitting on a patch of grass. (I was slightly scared by the prospect of ants crawling up my jeans, but when he proposed that we sit on the grass I felt it would be too awkward to refuse. We had already survived a cringy conversation composed of us deciding on what to eat and both of us refusing to make any sort of decision.) He asked me how I found New York, to which I frankly replied, "It's more ... normal ... than I imagined?"
+
+I guess this comment needed some clarification. Before heading to New York City, I had been constantly warned by my near-paranoid family members about the risks and perils of the US. While I didn't dare go out alone at night, and  I got creepily catcalled a couple of times, in truth I didn't find life to be that much different from before. As long as I did the same things every day -- doing research, meetings, reading, listening to music -- the changing backdrop of the city surrounding me was not that important, and it only took a couple of days for the initial apprehensiveness to subside.
+
+However, this changed every Sunday afternoon. Every Sunday afternoon, I made it my ritual to pick somewhere fun to visit, go there all alone, then come back for dinner and for the next work week. I welcomed these disruptions to my routine. During my two-month stay, I never saw the Statue of Liberty, Empire State Building, or Central Park, but I saw what mattered to me the most. As I am writing this, nearly 4 whole months have passed since I returned to China, so I hope I still remember everything clearly enough to write down what happened during each of those Sundays.
+
+
+
+### Washington Square Park
+
+I didn't bring much change when I went to Washington Square Park for the first and only time during my stay at NYC. Should've done my research. Fumbling around 20 dollar bills when it was 5 dollars per game was sort of awkward.
+
+I should say that, as a complete introvert, the challenge started even before that. As I recognized the famous circle of chess boards and approached the area, the chit-chat and trash talk of the chess players seemed to form a world of their own. The sun was glaring, I was sweating through my shirt and didn't have the nerve to step up to play. It was 2:50 in the afternoon when I sat down outside the fringes of the chess circle, kindle in hand, and gave myself 10 minutes to feel scared.
+
+3:00 readily came. The first guy I played against agreed to play for free because I told him I was a beginner (that's true, I suck too much). The moment I played 2.c3 against his Sicilian, he gave me a "you're no beginner" look, to which I responded with a nervous "yes I am, I know the Alapin but I still suck" laugh. A couple of moves into the game, he started lightly flirting with me, while occasionally bringing up his ex-wife and showing her photos and commenting on how pretty she was. Awkward? Yes. But not unbearable. Thinking of the next move was always a sufficient excuse for responding only occasionally in terse, meaningless, hardly comprehensible sounds. I wonder whether chess dates could become a thing. Normalize two people sitting across each other, absorbed in concentration and mental exertion, not saying a word for as long as many hours, then finally shaking hands and claiming that they both had a great time. Anyway, the guy's name was o.z., and he later showed me a video of him playing and winning (!) against Anna Cramling, my favorite female chess content creator. I guess there was no shame in losing to someone who could beat Anna!
+
+"You've heard of girl power?" "Ummm... yes I have!" "I feel it, on the board!" I smiled. I was losing. We both knew it.
+
+To be honest I was slightly scared throughout. The chess players acted all rough and rowdy, passing each other small plastic cups filled with amber-shaded liquid that I couldn't identify. They hollered with confidence and moved the pieces with conviction. But they were nice and I tried to act normal. One of the guys who I was especially apprehensive to approach later showed me his weathered tactics book, and told the next person playing me, "that's my student, be nice to her." Just like that, I joined the list of his former chess students.
+
+You know how people sometimes classify certain books as those that will get you out of a reading slump? I feel like street chess is something that will get you out of a chess slump. No engines, no long lines, no analysis, no tilt even if you lose money, just pure doses of bliss and primal passion that leave you breathlessly void of any social energy on the way back home. The same evening, you will lie dead on your bed scrolling through your photos, and the next morning you will want to play some more chess.
+
+
+
+### The Met & MoMA
+
+I will start this part off by saying that, again, I should have done my research. The weekend I visited the MoMA, Van Gogh's *Starry Night* had been loaned to the Met for a special exhibition. And ... when I visited the Met the following weekend, it had been returned :|||
+
+I still remember the subway ride to the MoMA. I was reading Patti Smith's *Just Kids* that I just bought a couple days ago. (More about that in the final section!) I remember Patti describing the MoMA and the Met as "zoos" for art. Mind you, she was far from an established artist back then, still hustling along NYC streets alongside Robert Mapplethorpe, struggling to secure a place to live and create art. Still, she had the guts to question the elitism of the art scene and the meaninglessness of snobby art criticism, while us superficial audiences, decades later, continue to flock towards these institutions that Patti disdained from the start.
+
+But I digress. 
+
+When it comes to modern art, it's always less about the artifact and more about the experience. It was never apparent how much noise my eyes were taking in from the chaotic city until all the light was taken away from me. Towards the end of my visit I stood in front of a spray-painted mirror and took a photo of myself, in my favorite sweater and black shoes, clutching my copy of *Just Kids*. Pine green colored words streaked across the mirror and across my face: "WEALTH WITHOUT TOLL PLEASURE WITHOUT CONSCIENCE KNOWLEDGE WITHOUT VIRTUE COMMERCE WITHOUT MORALITY SCIENCE WITHOUT HUMANITY ADORATION WITHOUT SACRIFICE." Until now, I still check on that photo more often than any other, but the direct shock of seeing the artwork is something that can only be recalled, never reconstructed.
+
+As for the Met, I initially had lower expectations than for the MoMA.
+
+The lobby and main galleries were churning with crowds, but up on the higher floors and in the more obscure corners of this grand labyrinth, there were still some areas left undisturbed. The hollowness of the tall hallways and the whiteness of the walls magnified the sparse sounds in the room. Soft jazz music playing in the background, edgily dressed gay couples discussing the paintings on the wall, the hum of the ventilator of an old lady in her wheelchair as her husband steadily pushed her forward, and my own footsteps as I scoured the intimidating place alone. People watching always brings about an odd mix of calmness and loneliness I guess.
+
+### Times Square & Richard Rodgers Theater
+
+Times square has this vibrance that hits you like a wave the first time you exit the labyrinth of a subway station at Times Square - 42nd Street. I had seen pictures before, I had read articles, I had seen many parts of Manhattan, but all that wasn't enough to prepare me, and I'm glad it turned out this way. The journalist Margaret Fuller once described herself as "the much that calls for more". I felt the same way about Times Square. The light of the giant ad boards that crowded out even the noon sunlight, the smell of halai food, marijuana, and dirty water (no offense to halai food, I like it), the sound of ... well, people and cars? I could try to describe all this in a more unique way, but in truth it was mostly sounds and views that you would expect in a buzzing city center, just stunningly magnified to the point that first time travelers can hardly avoid the shock. The much that calls for more.
+
+I left the theater still sobbing, but I didn't care, and I didn't think anyone else did. Between the people praising god and the people criticizing the government, the people playing the guitar naked and the people playing chess on plastic tables, the people dressed as drag queens and the people dressed in rags, I felt more invisible than a speck of dust and more "normal" than ever before. For me, not being cared about was equivalent to being free. Walking along the streets of New York at a pace way faster than necessary, I felt that everyone I brushed past was living their own life in separate boxes, undisturbed by and uninterested in one another. But at the same time, paradoxically, I felt that with each inhale and exhale, I could catch a fleeting sensation of the lives of so many people who walked the same street, from past to present.
+
+As I was organizing my photos on the way back, it was a pleasant surprise to discover a photo I accidentally snapped just as I was entering Richard Rodgers Theater. I must have lifted up my phone with a trembling hand because everything in the photo, the lit-up labels, green street signs, and theater-goers dressed in black were slightly blurred. The words "RICHARD RODGERS", in all-caps and lit-up by small yellow light bulbs, were barely distinguishable. It vibed like New York City. It captured an instant of movement that seemed to align with how everyone in New York was always in a rush. It was probably similar to how I saw the streets as I walked out of the theater three hours later with my eyesight blurred by my tears. It also looked just like a dream, with only the contours of the experienced hazily outlined, just like how I imagined Times Square to be before I set foot on the city.
+
+### NYPL
+
+The sun was setting as I made my way down the stairs and out the building. As I neared the edge of the handrails on the second floor, I was struck by how the vintage black-metal-lined windows let in a fractured but precise supercut of the city beyond them. The scarlet and tangerine colored sunlight slightly blurred as it passed through the glass, yellow taxi cabs and streetlamps with their light made fuzzy by the drizzling rain, passersby with large black umbrellas that I previously only saw in movies. Even the drowsiness of a rainy dusk couldn't take away the pulsing beat of the city, and inside, the serenity of the marble statues and overarching murals was similarly undisturbed by the jostling tourists speaking countless dif. I tried to take a photo, but it didn't feel the same. Maybe it has something to do with intricate differences in angles and lighting, or maybe it's my mind's eye perpetually painting out the world to be more poetic than it actually is. In his book *On Earth We're Briefly Gorgeous*, Ocean Vuong says that eyes are lonely, taking in the world but never knowing that a neighboring socket hosts another eyeball that's just as lonely. One thing I both love and hate about Vuong's writing is that he never fully elaborates, instead he leaves you hanging and trying in vain to decode his figurative language. That moment at NYPL formed my own understanding of why eyes are lonely -- no matter how hard you try, it's impossible to share exactly what your eyes take in with anyone else; it's impossible even to pause and capture it for longer than a brief moment. You just need to be present for what enters your eyes and be content when it leaves.
+
+### Books & Bookstores
+
+The best thing New York City did to me was get me out of my three-year-long reading slump. It's hard to refrain from blaming my university for what happened to me. On *Zhihu*, which is basically China's version of *Quora*, . It's not that I had exactly zero free time, but the toxic competition and pressure around me made it feel like there was always something more urgent to do and that anything not directly related to studying is a crime.
+
+Along the short daily commute to and from Columbia University, I passed by two Book Culture bookstores.
+
+A couple days later I half-jokingly commented that by now every book that doesn't at least *feel* life-changing is underwhelming to me. I have been utterly absorbed in my narcissism of my own taste in books. There's some sense to what I said, though -- there's no denying that well more than half of all books I've recently read have left me feeling like a crumbling town that just had a tornado rumble through it. Bookstores have only felt even more sacred after that one revelation, stacked up to the brim with books, of which most of them have the potential to change your life.
+
