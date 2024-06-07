@@ -18,3 +18,11 @@ My mom recently told me that, during all the back-and-forth to get me this spot,
 As part of my big plan to do some big things, I think I need to push myself harder to do more general learning and improvement, outside of the daily hamster wheel of unrelenting deadlines. So I will try to write something every week about what I learned that week. No time to write detailed plans yet since I need to rush back onto my hamster wheel, but I figure my twitter bookmarks and github stars are a decent enough place to start.
 
 ps. No one will read this, which means he won't read this, but... To my mentor & friend: As the single best person I have ever met, you have single-handedly changed my life and will certainly continue changing it for the next six years at least. I think you deserve to get everything you've ever wanted (too bad I'm not some kind of goddess, well... c'est la vie ig.) Part of my plans for my coming Ph.D. is to observe you meticulously. For real. 
+
+![image-681908978d7d2ad4aa973d6b5220403](/content/images/681908978d7d2ad4aa973d6b5220403.png)
+
+pps. I do feel change coming my way. I do feel ungrounded courage of my convictions for the first time in so many years.
+
+> Love is such a priceless treasure that you can buy the whole world with it, and redeem not only your own but other people's sins. Go, and do not be afraid.
+
+Go, and do not be afraid.
