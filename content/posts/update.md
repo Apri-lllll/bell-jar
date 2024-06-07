@@ -19,7 +19,7 @@ As part of my big plan to do some big things, I think I need to push myself hard
 
 ps. No one will read this, which means he won't read this, but... To my mentor & friend: As the single best person I have ever met, you have single-handedly changed my life and will certainly continue changing it for the next six years at least. I think you deserve to get everything you've ever wanted (too bad I'm not some kind of goddess, well... c'est la vie ig.) Part of my plans for my coming Ph.D. is to observe you meticulously. For real. 
 
-![image-681908978d7d2ad4aa973d6b5220403](images/681908978d7d2ad4aa973d6b5220403.png)
+![image-681908978d7d2ad4aa973d6b5220403](https://apri-lllll.github.io/bell-jar/images/681908978d7d2ad4aa973d6b5220403.png)
 
 pps. I do feel change coming my way. I do feel ungrounded courage of my convictions for the first time in so many years.
 
