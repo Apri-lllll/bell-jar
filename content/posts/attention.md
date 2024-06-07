@@ -17,11 +17,11 @@ Approaching sequence modeling requires models to capture dependencies within seq
 
 ### Attention Mechanism
 
-![image-20220725172002148](/content/images/image-20220725172002148.png)
+![image-20220725172002148](https://apri-lllll.github.io/bell-jar/images/image-20220725172002148.png)
 
 An attention mechanism inputs a query(Q), and a set of key(K) - value(V) pairs to compute a weighted sum of the values. The weight assigned to each value is computed using the query and the key. Different methods for computing weights exist; the Transformer uses the scaled dot-product attention, which is computationally efficient. The equation for scaled dot-product attention is:
 
-![image-20220725183625](/content/images/20220725183625.png)
+![image-20220725183625](https://apri-lllll.github.io/bell-jar/images/20220725183625.png)
 
 The original dot product is scaled to prevent the *softmax* function from having small gradients when the dot product grows large.
 
@@ -31,7 +31,7 @@ The Transformer uses multi-head attention, which allows the model to learn from 
 
 ### Model Architecture
 
-![image-20220725114107461](/content/images/image-20220725114107461.png)
+![image-20220725114107461](https://apri-lllll.github.io/bell-jar/images/image-20220725114107461.png)
 
 The Transformer uses the popular encoder-decoder network structure, and the encoder and decoder each consist of numerous stacked layers.
 
@@ -50,7 +50,7 @@ For each of the sublayers, a residual connection is applied around the sublayer,
 
 An important part of the Transformer is positional encoding, which allows the model to be aware of the relative positions of different tokens. Positional encodings are added to input and output embeddings before they are input into the encoder or decoder. They are calculated by:
 
-![image-20220725183422](/content/images/20220725183422.png)
+![image-20220725183422](https://apri-lllll.github.io/bell-jar/images/20220725183422.png)
 
 where *pos* denotes the position and *i* denotes the dimension. The advantages of using this method of calculation are twofold: first, the model can learn to attend to relative positions (the encoding of position *pos+k* can be represented as a linear function of the encoding of *pos*); second, the model can extrapolate to sentences longer than those in the training data.
 
