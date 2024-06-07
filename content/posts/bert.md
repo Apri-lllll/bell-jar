@@ -28,7 +28,7 @@ The input representation scheme of BERT allows both single sentences and pairs o
 - segment embedding: represents whether the token is in the first or second sentence
 - position embedding: represents the token's position in the sentence
 
-![image-20220728114030](/images/20220728114030.png)
+![image-20220728114030](/content/images/20220728114030.png)
 
 
 
@@ -48,7 +48,7 @@ BERT is fine-tuned by plugging in the appropriate inputs and outputs for the dow
 
 Experiments demonstrate that BERT outperforms existing methods on 11 NLP tasks, including GLUE and SQuAD. For each task, the input and output methods are slightly modified. The following image shows several examples.
 
-![image-20220728113137](/images/20220728113137.png)
+![image-20220728113137](/content/images/20220728113137.png)
 
 Ablation studies are performed to verify the necessity of different parts of the proposed method. Removing the NSP pretraining task and replacing MLM with standard left-to-right LM both significantly hurt model performance. The authors also found that increasing model size led to accuracy improvements even on small datasets.
 
@@ -60,7 +60,7 @@ Additionally, the researchers experimented with using BERT for feature-based met
 
 Compared with GPT, which uses unidirectional standard LM, and ELMo, which concatenates independently trained LTR and RTL LSTMs, BERT representations are jointly conditioned on left and right context on all layers. The accurate performance of BERT can be attributed to its bidirectional nature and the choice of its pretraining tasks, both of which distinguish BERT from previous work.
 
-![image-20220728114518](/images/20220728114518.png)
+![image-20220728114518](/content/images/20220728114518.png)
 
 The effective performance of BERT demonstrates the importance of bi-directionality in pretraining, as well as the possibility of using a unified model for a wide range of downstream tasks.
 
