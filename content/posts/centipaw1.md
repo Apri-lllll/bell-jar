@@ -5,7 +5,11 @@ description: "Hopefully I WILL FINISH THIS SOMEDAY"
 tags: [fiction, chess]
 ---
 
-> WIP. I'm just bored. Found this in my folders and thought it was quite good. Should finish it. Cute first work of fiction?
+> WIP.
+
+### Note from the Narrator
+
+When in stress, make cats play chess.
 
 ### Chapter 1 - Autumn
 
