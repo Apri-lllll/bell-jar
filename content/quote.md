@@ -3,6 +3,6 @@ title: This is just a random quote
 date: 2023-12-22
 ---
 
-In the shattered schoolhouse where for the first time he had felt the security of power, a few feet from the room where he had come to know the uncertainty of love, Arcadio found the formality of death ridiculous. Death really did not matter to him but life did, and therefore the sensation he felt when they gave their decision was not a feeling of fear but of nostalgia. He did not speak until they asked him for his last request.
+Such a youth, I say, would have steered clear of what happened to my youth, but in certain instances it is, undeniably, more worthy of respect to give oneself up to an enthusiasm, even though it be an irrational one, which none the less proceeds from a great love, than not to give oneself up to it at all. And in one's young years all the more so, for a youth who is always reasonable is not to be relied upon and too cheap is his price - that is my opinion!
 
---*One Hundred Years of Solitude*, Gabriel Garcia Marquez
+--*The Brothers Karamazov*, Dostoyevsky
