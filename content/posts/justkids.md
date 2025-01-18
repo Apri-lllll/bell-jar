@@ -1,11 +1,13 @@
 ---
-title: "Reading Patti Smith's *Just Kids*"
+title: "Just Kids"
 date: "2025-01-18"
-description: "aka found an old notepad at home with many late night attempts to stay sane"
+description: "Reading Patti Smith's *Just Kids*"
 tags: [books, reviews]
 ---
 
-> This is due for a reread. Experiencing NYC and missing it are two totally different states of mind
+> aka found an old notepad at home with many late night attempts to stay sane
+
+> This is due for a reread. Experiencing NYC and missing it are two totally different states of mind.
 
 I came across a physical copy of this book when I was browsing a bookstore in upper west side Manhattan. I chose it over another of Patti's books because the blurb said that it "starts as a love story and ends as an elegy (to New York)". I enjoyed love stories and loved New York even more, though I had just arrived not long ago. From this aspect, *Just Kids* certainly did not dissapoint. The lives and minds of the artists were interwoven with parts of the city that I was gradually getting to know myself, from the chess hustlers at Washington Square Park to the bustling liveliness of 42nd Street and Sixth Avenue.
 
