@@ -2,7 +2,7 @@
 title: "AI and Innovation"
 date: "2025-01-26"
 description: "Recycling my crap and giving it a home in this dumpster fire where it belongs."
-tags: [life, lists]
+tags: [research, essays, surveys]
 ---
 
 > Last semester I poured many days and (mostly) nights into a section of a sprawling AI4Science perspective paper we were writing. But they ended up scrapping everything and writing a whole new piece of incoherent crap. Well my sweet crap needs a home.
