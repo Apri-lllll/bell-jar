@@ -3,6 +3,6 @@ title: This is just a random quote
 date: 2023-12-22
 ---
 
-Such a youth, I say, would have steered clear of what happened to my youth, but in certain instances it is, undeniably, more worthy of respect to give oneself up to an enthusiasm, even though it be an irrational one, which none the less proceeds from a great love, than not to give oneself up to it at all. And in one's young years all the more so, for a youth who is always reasonable is not to be relied upon and too cheap is his price - that is my opinion!
+It seemed now as if, touched by human penitence and all its toil, divine goodness had parted the curtain and displayed behind it, single, distinct, the hare erect; the wave falling; the boat rocking, which, did we deserve them, should be ours always. But alas, divine goodness, twitching the cord, draws the curtain; it does not please him; he covers his treasures in a drench of hail, and so breaks them, so confuses them that it seems impossible that their calm should ever return or that we should ever compose their fragments a perfect whole or read in the littered pieces the clear words of truth. For our penitence deserves a glimpse only; our toil respite only.
 
---*The Brothers Karamazov*, Dostoyevsky
+--*To the Lighthouse*, Woolf
