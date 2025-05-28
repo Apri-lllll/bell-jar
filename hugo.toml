@@ -41,3 +41,8 @@ weight = 5
 name = "Arxiv"
 url = "/arxiv"
 weight = 6
+
+[[menu.main]]
+name = "Kim"
+url = "/kim"
+weight = 7
